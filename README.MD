@@ -7,7 +7,7 @@
 - **[Tecnologias](#tecnologias)**
 
 ## Documentação
-**Todas as rotas possuem um prefixo "/api".**
+**Todas as rotas possuem um prefixo "/api".**  
 **Esta aplicação não depende Banco de dados** 
 
 ### **Desafio 1 (palíndromos)**
@@ -19,7 +19,7 @@ Parameters:
 - **first** | required | o primeiro número para do intervalo
 - **last** | required | o último número do intervalo
 
-Return: Uma lista de números palíndromos dentro do intervalo estabelecido  
+Return: Uma lista de números palíndromos dentro do intervalo de números estabelecido  
 
 ### **Desafio 2 (caixa)**
 /POST: /api/purchase
